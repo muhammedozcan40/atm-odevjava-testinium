@@ -6,7 +6,7 @@ import com.testinium.atmodev.musteriler.Musteriler;
 
 public class Atm {
 
-   /*  Bu uygulamada oluşturulan müşteri numaraları 100001,100002,100003,10004,10005 şeklindedir
+   /*  Bu uygulamada oluşturulan müşteri numaraları 100001,100002,100003,100004,100005 şeklindedir
       Virgüllü bakiye girilebilmektedir.
     */
 
