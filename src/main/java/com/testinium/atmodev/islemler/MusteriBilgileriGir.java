@@ -8,7 +8,7 @@ public class MusteriBilgileriGir {
     static Scanner scanner = new Scanner(System.in);
 
     public static String musteriNoGir() {
-        try {
+
             String musteriNo;
             while (true) {
                 musteriNo = scanner.nextLine();
@@ -23,12 +23,11 @@ public class MusteriBilgileriGir {
 
             }
             return musteriNo;
-        } catch (Exception e) {
-            e.printStackTrace();
         }
-        return null;
-    }
-}
+        }
+
+
+
 
 
 
