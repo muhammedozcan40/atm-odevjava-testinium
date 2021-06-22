@@ -17,6 +17,6 @@ public class KurumsalMusteri extends Musteri {
     @Override
     public void bilgileriYazdir() {
         super.bilgileriYazdir();
-        System.out.println("Sirket adi" + getSirketAdi());
+        System.out.println("Sirket adi:"+ getSirketAdi());
     }
 }

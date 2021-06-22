@@ -18,7 +18,7 @@ public class BireyselMusteri extends Musteri {
     @Override
     public void bilgileriYazdir() {
         super.bilgileriYazdir();
-        System.out.println("Ev adresi" + getEvAdresi());
+        System.out.println("Ev adresi:" + getEvAdresi());
 
     }
 }

@@ -41,7 +41,7 @@ public class Musteri {
         System.out.println("TC Kimlik No" + getTcNo() + "\n"
                 + "Ad Soyad" + getAdSoyad() + "\n" +
                 "Bakiye:" + getBakiye() + "\n" +
-                "Musteri No" + getMusteriNo() + "\n")
+                "Musteri No:" + getMusteriNo() + "\n")
         ;
     }
 }
